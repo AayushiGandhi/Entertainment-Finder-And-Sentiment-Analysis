@@ -13,7 +13,7 @@
 
 
 - Application Architecture
-![architecture](images/7.jpg)
+![architecture](images/7.png)
 
 - Landing/Login page\
 ![Dashboard](images/1.jpg)
